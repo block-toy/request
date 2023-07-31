@@ -1,0 +1,9 @@
+{
+  "swaggerUrl": "your swagger doc request api url",
+  "host": "business request api prefix",
+  "mock": true,
+  "verifyParams": true,
+  "language": "js",
+  "requestPath": "request function",
+  "isDefaultExport": true
+}
